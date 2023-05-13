@@ -2251,7 +2251,6 @@
 		"type": "Territories",
 		"title": "Gun Metal Mafia",
 		"notes": "Gun Metal Mafia Territories",
-		"wiki_link": "",
 		"order": 1,
 		"strokecolor": "551A8B",
 		"fillcolor": "551A8B",
@@ -2272,15 +2271,13 @@
 			{"lat": -1282.879, "lng": -517.378},
 			{"lat": -1525.700, "lng": -663.720},
 			{"lat": -1756.535, "lng": -485.982},
-			{"lat": -1549.831, "lng": -178.963},
-			{"lat": -79.498, "lng": -24.658}
+			{"lat": -1549.831, "lng": -178.963}
 		]
 	},
 	{
 		"type": "Territories",
 		"title": "Ballas",
 		"notes": "Grove Street Ballas are one of the strongest South Side street gangs and primarily operate out of Davis.",
-		"wiki_link": "",
 		"order": 1,
 		"strokecolor": "551A8B",
 		"fillcolor": "551A8B",
