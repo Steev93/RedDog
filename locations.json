@@ -2280,7 +2280,7 @@
 		"type": "Territories",
 		"title": "Ballas",
 		"notes": "Grove Street Ballas are one of the strongest South Side street gangs and primarily operate out of Davis.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Ballas",
+		"wiki_link": "",
 		"order": 1,
 		"strokecolor": "551A8B",
 		"fillcolor": "551A8B",
@@ -2346,5 +2346,5 @@
 			{"lat": -74.460, "lng": -10.461},
 			{"lat": -74.584, "lng": -9.938}
 		]
-	},
+	}
 ]
