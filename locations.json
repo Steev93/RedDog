@@ -2255,7 +2255,7 @@
 		"strokecolor": "551A8B",
 		"fillcolor": "551A8B",
 		"latlngarray": [
-			{"lat": -1750.422, "lng": 75.610},
+			{"lat": -1832.02, "lng": 140.58},
 			{"lat": -1432.191, "lng": 273.780},
 			{"lat": -1388.453, "lng": 369.817},
 			{"lat": -1074.747, "lng": 400.305},
@@ -2278,7 +2278,7 @@
 		"type": "Territories",
 		"title": "Ballas",
 		"notes": "Grove Street Ballas are one of the strongest South Side street gangs and primarily operate out of Davis.",
-		"order": 1,
+		"order": 2,
 		"strokecolor": "551A8B",
 		"fillcolor": "551A8B",
 		"latlngarray": [
