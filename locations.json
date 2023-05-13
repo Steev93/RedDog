@@ -2252,8 +2252,8 @@
 		"title": "Gun Metal Mafia",
 		"notes": "Gun Metal Mafia Territorie",
 		"order": 1,
-		"strokecolor": "551A8B",
-		"fillcolor": "551A8B",
+		"strokecolor": "882222",
+		"fillcolor": "228822",
 		"latlngarray": [
 			{"lat": -51.891, "lng": -66.428},
 			{"lat": -48.135, "lng": -56.711},
@@ -2281,8 +2281,8 @@
 		"title": "Kitsune Yakuza",
 		"notes": "Kitsune Yakuza Territories.",
 		"order": 3,
-		"strokecolor": "551A8B",
-		"fillcolor": "551A8B",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -67.602, "lng": -55.750},
 			{"lat": -67.199, "lng": -54.238},
@@ -2308,8 +2308,8 @@
 		"title": "South Side",
 		"notes": "South Side are one of the strongest South Side street gangs and primarily operate out of Davis.",
 		"order": 4,
-		"strokecolor": "551A8B",
-		"fillcolor": "551A8B",
+		"strokecolor": "008000",
+		"fillcolor": "008000",
 		"latlngarray": [
 			{"lat": -73.669, "lng": -13.290},
 			{"lat": -75.082, "lng": -7.006},
