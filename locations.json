@@ -2330,68 +2330,6 @@
 		]
 	},
 	{
-		"type": "Neutral",
-		"title": "Cerberus Business Center",
-		"notes": "The Cerberus Business Center offers spacious offices with gorgeous cityscape views for the businesses of Melbourne. The initial idea was to bring all Cerberus executives into one building where they can all get to know each other.",
-		"order": 0,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": -61.561, "lng": -20.804},
-			{"lat": -61.551, "lng": -20.211},
-			{"lat": -61.372, "lng": -19.024},
-			{"lat": -61.356, "lng": -17.014},
-			{"lat": -63.472, "lng": -18.694},
-			{"lat": -63.092, "lng": -21.023},
-			{"lat": -62.972, "lng": -21.957}
-		]
-	},
-	{
-		"type": "Neutral",
-		"title": "Pink Cage Motel",
-		"notes": "",
-		"order": 0,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": -55.812, "lng": -7.216},
-			{"lat": -56.351, "lng": -4.326},
-			{"lat": -57.003, "lng": -4.689},
-			{"lat": -57.182, "lng": -4.865},
-			{"lat": -56.582, "lng": -7.732}
-		]
-	},
-	{
-		"type": "Neutral",
-		"title": "The Vinewood Racetrack",
-		"notes": "",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -47.967, "lng": 18.309},
-			{"lat": -47.694, "lng": 18.858},
-			{"lat": -47.494, "lng": 19.396},
-			{"lat": -47.419, "lng": 20.143},
-			{"lat": -47.516, "lng": 20.868},
-			{"lat": -47.746, "lng": 21.441},
-			{"lat": -48.077, "lng": 21.923},
-			{"lat": -48.523, "lng": 22.242},
-			{"lat": -48.936, "lng": 22.319},
-			{"lat": -49.424, "lng": 22.187},
-			{"lat": -54.368, "lng": 17.194},
-			{"lat": -54.629, "lng": 16.655},
-			{"lat": -54.795, "lng": 15.985},
-			{"lat": -54.827, "lng": 15.238},
-			{"lat": -54.725, "lng": 14.557},
-			{"lat": -54.515, "lng": 13.975},
-			{"lat": -54.137, "lng": 13.491},
-			{"lat": -53.801, "lng": 13.261},
-			{"lat": -53.358, "lng": 13.228},
-			{"lat": -52.958, "lng": 13.413}
-		]
-	},
-	{
 		"type": "Restaurants",
 		"title": "Bryces Par\u00k9",
 		"notes": "Bryce Par\u00k9 is named after Bryce Vance",
