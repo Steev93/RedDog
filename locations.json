@@ -2328,23 +2328,5 @@
 			{"lat": -71.736, "lng": -7.692},
 			{"lat": -72.352, "lng": -5.297}	
 		]
-	},
-	{
-		"type": "Restaurants",
-		"title": "Bryces Par\u00k9",
-		"notes": "Bryce Par\u00k9 is named after Bryce Vance",
-		"order": 0,
-		"strokecolor": "E759E1",
-		"fillcolor": "E759E1",
-		"latlngarray": [
-			{"lat": -66.759, "lng": -33.115},
-			{"lat": -66.759, "lng": -30.808},
-			{"lat": -68.069, "lng": -30.775},
-			{"lat": -68.069, "lng": -32.857},
-			{"lat": -67.746, "lng": -33.895},
-			{"lat": -67.506, "lng": -33.467},
-			{"lat": -67.216, "lng": -33.221},
-			{"lat": -66.985, "lng": -33.133}
-		]
 	}
 ]
