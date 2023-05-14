@@ -11,6 +11,23 @@ This interactive (Google) map shows you the location of current NoPixel territor
 5. Change the type, add a video or images, and change the color of the region.
 6. Add new region to `locations.json` and create a pull request.
 
+Example:
+		"type": "Type of Location",
+		"title": "Name of Location",
+		"notes": "Notes about this Location",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": -56.469, "lng": -16.248},
+			{"lat": -56.469, "lng": 2.537},
+			{"lat": -59.169, "lng": 2.537},
+			{"lat": -59.169, "lng": -0.894},
+			{"lat": -59.909, "lng": -0.894},
+			{"lat": -59.909, "lng": -3.584},
+			{"lat": -60.141, "lng": -3.584},
+			{"lat": -60.141, "lng": -16.248}
+
 ## License
 
 [WTFPL](LICENSE)
