@@ -2248,6 +2248,69 @@
 		]
 	},
 	{
+		"type": "Neutral",
+		"title": "The Cemetery",
+		"notes": "It's a real monkaW place.",
+		"order": 0,
+		"strokecolor": "FFD1DC",
+		"fillcolor": "FFD1DC",
+		"latlngarray": [
+			{"lat": -56.228, "lng": -69.546},
+			{"lat": -53.038, "lng": -64.558},
+			{"lat": -53.679, "lng": -63.459},
+			{"lat": -54.236, "lng": -62.723},
+			{"lat": -54.822, "lng": -62.174},
+			{"lat": -55.344, "lng": -61.625},
+			{"lat": -56.031, "lng": -60.683},
+			{"lat": -56.257, "lng": -61.169},
+			{"lat": -56.604, "lng": -61.663},
+			{"lat": -57.037, "lng": -61.982},
+			{"lat": -57.869, "lng": -62.213},
+			{"lat": -58.334, "lng": -62.982},
+			{"lat": -58.742, "lng": -64.157},
+			{"lat": -58.576, "lng": -65.399},
+			{"lat": -58.444, "lng": -65.948},
+			{"lat": -58.091, "lng": -66.728},
+			{"lat": -57.524, "lng": -67.607},
+			{"lat": -56.616, "lng": -68.783}
+		]
+	},
+	{
+		"type": "Neutral",
+		"title": "Cerberus Business Center",
+		"notes": "The Cerberus Business Center offers spacious offices with gorgeous cityscape views for the businesses of Melbourne. The initial idea was to bring all Cerberus executives into one building where they can all get to know each other.",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -61.561, "lng": -20.804},
+			{"lat": -61.551, "lng": -20.211},
+			{"lat": -61.372, "lng": -19.024},
+			{"lat": -61.356, "lng": -17.014},
+			{"lat": -63.472, "lng": -18.694},
+			{"lat": -63.092, "lng": -21.023},
+			{"lat": -62.972, "lng": -21.957}
+		]
+	},
+	{
+		"type": "Restaurants",
+		"title": "Bryces Park",
+		"notes": "Bryce Park a place to have a feed",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -66.759, "lng": -33.115},
+			{"lat": -66.759, "lng": -30.808},
+			{"lat": -68.069, "lng": -30.775},
+			{"lat": -68.069, "lng": -32.857},
+			{"lat": -67.746, "lng": -33.895},
+			{"lat": -67.506, "lng": -33.467},
+			{"lat": -67.216, "lng": -33.221},
+			{"lat": -66.985, "lng": -33.133}
+		]
+	},
+	{
 		"type": "Territories",
 		"title": "Gun Metal Mafia",
 		"notes": "Gun Metal Mafia Territorie",
