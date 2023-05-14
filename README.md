@@ -1,7 +1,7 @@
 Red Dog Territory map
 ====
 [Live page](https://steev93.github.io/RedDog/)
-This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
+This interactive (Google) map shows you the location of current Red Dog territory/gang zones.
 
 ## How to submit new locations
 1. Right click on the map to add points.
