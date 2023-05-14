@@ -12,6 +12,7 @@ This interactive (Google) map shows you the location of current NoPixel territor
 6. Add new region to `locations.json` and create a pull request.
 
 Example:
+		
 		"type": "Type of Location",
 		"title": "Name of Location",
 		"notes": "Notes about this Location",
