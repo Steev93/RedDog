@@ -1,4 +1,4 @@
-Red Dog Territory map
+Territory map
 ====
 [Live page](https://steev93.github.io/RedDog/)
 This interactive (Google) map shows you the location of current Red Dog territory/gang zones.
